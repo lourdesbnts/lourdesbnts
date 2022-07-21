@@ -11,6 +11,10 @@ I am a frontend software developer who is continually learning new technologies 
   </a>
 </div>
 
+
+
+
+
 - 🌱 I’m currently learning:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -31,7 +35,6 @@ I am a frontend software developer who is continually learning new technologies 
 - Please, feel free to reach out to me at lourdesben95@gmail.com
 <p>
   <a href="https://www.linkedin.com/in/lourdesbenites/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://jruppdesign.com/"><img src="https://img.shields.io/badge/Website-343434?style=for-the-badge&logoColor=white" alt="Website">
   </a>
   <a href="mailto:lourdesben95@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> 
