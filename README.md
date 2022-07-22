@@ -6,6 +6,8 @@ I am a frontend software developer who is continually learning new technologies 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=lourdesbnts&show_icons=true&theme=omni&show_icons=true"/>
   </a
+  
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourdesbnts&layout=compact&theme=omni&show_icons=true"/>
   </a>
